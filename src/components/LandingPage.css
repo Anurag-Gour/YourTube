@@ -1,0 +1,33 @@
+.aline{
+
+    margin: auto;
+    display:grid;
+    width: 80%;
+    grid-template-columns: auto auto auto ;
+    margin-left: 17%;
+    margin-right: 10%;
+    /* height: 100cqw; */
+
+}
+.maincon{
+    margin: 50px;
+    /* padding: 50px; */
+}
+button{
+    width: 200px;
+    display:flex;
+    justify-content: flex-start;
+    font-size: 23px;
+    /* margin: 30px;
+    padding: 50px; */
+}
+
+.typescripter{
+    color: white;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+/* .category-btn{
+    font-size: 15px;
+} */
